@@ -14,3 +14,6 @@ foreach ($arr as $value){
     $count ++;
 }
 echo $count;
+
+//$arr = [4, 2, 5, 19, 13, 0, 10];
+//echo count ($arr); чому саме foreach? можна і так
