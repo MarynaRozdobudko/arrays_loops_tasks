@@ -19,3 +19,6 @@ foreach ($arr as $e){
         echo ' Нет! ';
     }
 }
+
+
+//in_array
