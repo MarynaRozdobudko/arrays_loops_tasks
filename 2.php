@@ -17,3 +17,6 @@ foreach ($arr as $value){
     //$result+=$value;
 }
 echo $result;
+
+// array_sum — Вычисляет сумму значений массива
+//echo array_sum($arr);
